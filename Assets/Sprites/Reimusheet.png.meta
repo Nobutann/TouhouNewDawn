@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: d085293feecb29d4eb759f615f2e201b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2121634859745757533
+    second: Reimusheet_0
+  - first:
+      213: 6583382010727550147
+    second: Reimusheet_1
+  - first:
+      213: 6358491714249003880
+    second: Reimusheet_2
+  - first:
+      213: 8772110848860174931
+    second: Reimusheet_3
+  - first:
+      213: -6260635336440952102
+    second: Reimusheet_4
+  - first:
+      213: 2316607029062938994
+    second: Reimusheet_5
+  - first:
+      213: 6261675423428153128
+    second: Reimusheet_6
+  - first:
+      213: -9085888169339329287
+    second: Reimusheet_7
+  - first:
+      213: -8938172532191408600
+    second: Reimusheet_8
+  - first:
+      213: 7477908310051884248
+    second: Reimusheet_9
+  - first:
+      213: -8397562144527570596
+    second: Reimusheet_10
+  - first:
+      213: 4506380279043674155
+    second: Reimusheet_11
+  - first:
+      213: -6632010094576578690
+    second: Reimusheet_12
+  - first:
+      213: 5416876814009302422
+    second: Reimusheet_13
+  - first:
+      213: -6961592055334071319
+    second: Reimusheet_14
+  - first:
+      213: 4858374073463372164
+    second: Reimusheet_15
+  - first:
+      213: -6123560206848238907
+    second: Reimusheet_16
+  - first:
+      213: 4619618212582451042
+    second: Reimusheet_17
+  - first:
+      213: 8606332549579674358
+    second: Reimusheet_18
+  - first:
+      213: -338267575192973453
+    second: Reimusheet_19
+  - first:
+      213: -6645657033942271360
+    second: Reimusheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reimusheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b4c106507e82e0800000000000000
+      internalID: -2121634859745757533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cccc1afe0fdc5b50800000000000000
+      internalID: 6583382010727550147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863931f7686ed3850800000000000000
+      internalID: 6358491714249003880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a39a4275cccb970800000000000000
+      internalID: 8772110848860174931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271387ba1dd362020800000000000000
+      internalID: 2316607029062938994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f8a303f90f5e650800000000000000
+      internalID: 6261675423428153128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 154
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ea9d59d078e180800000000000000
+      internalID: -9085888169339329287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ec39d307b35f380800000000000000
+      internalID: -8938172532191408600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc85930dfdd6c760800000000000000
+      internalID: 7477908310051884248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59aa24c8bdd57b80800000000000000
+      internalID: -8397562144527570596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20593becf0e98e30800000000000000
+      internalID: 4506380279043674155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 100
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f45f5f4fd56f3a0800000000000000
+      internalID: -6632010094576578690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e391a6e8e4736f90800000000000000
+      internalID: -6961592055334071319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 15, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f079dbe6b3e4bf0800000000000000
+      internalID: -338267575192973453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimusheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226b74be0df8dc4bb1364e924eac599
+      internalID: 14235479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e596ca35b6c16b74eac1723388ee5658
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reimusheet_0: -2121634859745757533
+      Reimusheet_1: 6583382010727550147
+      Reimusheet_10: -8397562144527570596
+      Reimusheet_11: 4506380279043674155
+      Reimusheet_12: -6632010094576578690
+      Reimusheet_13: 5416876814009302422
+      Reimusheet_14: -6961592055334071319
+      Reimusheet_15: 4858374073463372164
+      Reimusheet_16: -6123560206848238907
+      Reimusheet_17: 4619618212582451042
+      Reimusheet_18: 8606332549579674358
+      Reimusheet_19: -338267575192973453
+      Reimusheet_2: 6358491714249003880
+      Reimusheet_20: -6645657033942271360
+      Reimusheet_21: -668141257
+      Reimusheet_22: -1440306491
+      Reimusheet_23: 122990343
+      Reimusheet_24: -2011983478
+      Reimusheet_25: 14235479
+      Reimusheet_26: -917234
+      Reimusheet_3: 8772110848860174931
+      Reimusheet_4: -6260635336440952102
+      Reimusheet_5: 2316607029062938994
+      Reimusheet_6: 6261675423428153128
+      Reimusheet_7: -9085888169339329287
+      Reimusheet_8: -8938172532191408600
+      Reimusheet_9: 7477908310051884248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
